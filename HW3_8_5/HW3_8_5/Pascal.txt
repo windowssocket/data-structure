@@ -1,0 +1,23 @@
+program ***
+var a,b;
+
+begin
+
+if(a=b)then 
+  begin
+    if(a<1) then b:=3
+       else a:=2;
+  end
+else
+  begin
+    if(a>2) then
+      begin
+       b:=b+2;
+       a=a+b
+      end
+    a:=b+2
+  end
+
+end.
+
+最后最好空一行，不然可能出错

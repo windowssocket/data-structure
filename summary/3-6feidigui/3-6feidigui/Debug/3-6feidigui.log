@@ -1,0 +1,17 @@
+﻿生成启动时间为 2011-10-22 22:22:44。
+     1>项目“G:\程序作业\3-6feidigui\3-6feidigui\3-6feidigui.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\3-6feidigui.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         3-6feidigui.vcxproj -> G:\程序作业\3-6feidigui\Debug\3-6feidigui.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\3-6feidigui.unsuccessfulbuild”。
+         正在对“Debug\3-6feidigui.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\程序作业\3-6feidigui\3-6feidigui\3-6feidigui.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.09
